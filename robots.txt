@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: *index*
+Disallow: *site*
+Disallow: *component*
+Disallow: *?   
+Allow: /sitemap.xml
+Allow: /css/style.css?v1.9
+Allow: /css/style.css?v1.8
+
+User-agent: Yandex
+Disallow: *index*
+Disallow: *site*
+Disallow: *component*
+Disallow: *?   
+Allow: /sitemap.xml
+Allow: /css/style.css?v1.9
+Allow: /css/style.css?v1.8

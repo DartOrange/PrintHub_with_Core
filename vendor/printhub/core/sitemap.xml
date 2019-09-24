@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>https://printhub.kiev.ua/</loc>
+	<lastmod>2019-05-24T16:21:11+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://printhub.kiev.ua/service</loc>
+	<lastmod>2019-05-24T16:21:12+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://printhub.kiev.ua/service/cifra</loc>
+	<lastmod>2019-05-24T16:21:15+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://printhub.kiev.ua/service/copy</loc>
+	<lastmod>2019-05-24T16:21:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://printhub.kiev.ua/service/offset</loc>
+	<lastmod>2019-05-24T16:21:15+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://printhub.kiev.ua/service/ufprint</loc>
+	<lastmod>2019-05-24T16:21:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://printhub.kiev.ua/service/postprint</loc>
+	<lastmod>2019-05-24T16:21:17+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://printhub.kiev.ua/product</loc>
+	<lastmod>2019-05-24T16:21:18+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://printhub.kiev.ua/product/vizitki</loc>
+	<lastmod>2019-05-24T16:21:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://printhub.kiev.ua/product/bukleti</loc>
+	<lastmod>2019-05-24T16:21:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://printhub.kiev.ua/product/catalog</loc>
+	<lastmod>2019-05-24T16:21:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://printhub.kiev.ua/product/flaera</loc>
+	<lastmod>2019-05-24T16:21:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://printhub.kiev.ua/product/bloknot</loc>
+	<lastmod>2019-05-24T16:21:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://printhub.kiev.ua/product/nakleyki</loc>
+	<lastmod>2019-05-24T16:21:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://printhub.kiev.ua/materials</loc>
+	<lastmod>2019-05-24T16:21:21+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://printhub.kiev.ua/rules</loc>
+	<lastmod>2019-05-24T16:21:20+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://printhub.kiev.ua/delivery</loc>
+	<lastmod>2019-05-24T16:21:20+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://printhub.kiev.ua/contacts</loc>
+	<lastmod>2019-05-24T16:21:20+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://printhub.kiev.ua/download/pr_print.pdf</loc>
+	<lastmod>2019-05-24T16:21:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>

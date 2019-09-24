@@ -1,0 +1,14 @@
+User-agent: *
+
+Disallow: *index*
+Disallow: *site*
+Disallow: *component*
+Disallow: *?*
+Disallow: /en
+
+Allow: *css*
+Allow: *js*
+Allow: /sitemap.xml
+
+Host: www.printhub.kiev.ua/
+Sitemap: http://www.printhub.kiev.ua/sitemap.xml

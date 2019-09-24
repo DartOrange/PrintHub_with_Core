@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Sawarabi Gothic';
+    src: url('SawarabiGothic-Regular.eot');
+    src: local('Sawarabi Gothic'), local('SawarabiGothic-Regular'),
+        url('SawarabiGothic-Regular.eot?#iefix') format('embedded-opentype'),
+        url('SawarabiGothic-Regular.woff2') format('woff2'),
+        url('SawarabiGothic-Regular.woff') format('woff'),
+        url('SawarabiGothic-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
